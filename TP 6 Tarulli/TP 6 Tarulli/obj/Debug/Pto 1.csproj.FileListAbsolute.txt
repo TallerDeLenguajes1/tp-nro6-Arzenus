@@ -1,0 +1,6 @@
+E:\Taller 1\Repositorios Git\tp-nro6-Arzenus\TP 6 Tarulli\TP 6 Tarulli\bin\Debug\TP 6 Tarulli.exe.config
+E:\Taller 1\Repositorios Git\tp-nro6-Arzenus\TP 6 Tarulli\TP 6 Tarulli\bin\Debug\TP 6 Tarulli.exe
+E:\Taller 1\Repositorios Git\tp-nro6-Arzenus\TP 6 Tarulli\TP 6 Tarulli\bin\Debug\TP 6 Tarulli.pdb
+E:\Taller 1\Repositorios Git\tp-nro6-Arzenus\TP 6 Tarulli\TP 6 Tarulli\obj\Debug\Pto 1.csprojResolveAssemblyReference.cache
+E:\Taller 1\Repositorios Git\tp-nro6-Arzenus\TP 6 Tarulli\TP 6 Tarulli\obj\Debug\TP 6 Tarulli.exe
+E:\Taller 1\Repositorios Git\tp-nro6-Arzenus\TP 6 Tarulli\TP 6 Tarulli\obj\Debug\TP 6 Tarulli.pdb
