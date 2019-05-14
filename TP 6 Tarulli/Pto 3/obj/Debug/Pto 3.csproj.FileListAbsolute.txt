@@ -1,0 +1,7 @@
+D:\Repositorios Git\tp-nro6-Arzenus\TP 6 Tarulli\Pto 3\bin\Debug\Pto 3.exe.config
+D:\Repositorios Git\tp-nro6-Arzenus\TP 6 Tarulli\Pto 3\bin\Debug\Pto 3.exe
+D:\Repositorios Git\tp-nro6-Arzenus\TP 6 Tarulli\Pto 3\bin\Debug\Pto 3.pdb
+D:\Repositorios Git\tp-nro6-Arzenus\TP 6 Tarulli\Pto 3\obj\Debug\Pto 3.csprojAssemblyReference.cache
+D:\Repositorios Git\tp-nro6-Arzenus\TP 6 Tarulli\Pto 3\obj\Debug\Pto 3.csproj.CoreCompileInputs.cache
+D:\Repositorios Git\tp-nro6-Arzenus\TP 6 Tarulli\Pto 3\obj\Debug\Pto 3.exe
+D:\Repositorios Git\tp-nro6-Arzenus\TP 6 Tarulli\Pto 3\obj\Debug\Pto 3.pdb

@@ -19,19 +19,15 @@ namespace TP_6_Tarulli
 
             if(numero > 9)
             {
-                cifras = ContarCifras(numero);
-
-                aux = cifras;
-
-                for (int i = 0; i< cifras; i++)
+                for (cifras = ContarCifras(numero); cifras > 0; cifras--)
                 {
-                    resto = Cifra(numero);
+                    resto = numero % 10;
 
-                    valorInvertido = valorInvertido + (resto* (10 ^ (i-1)));
+                    aux =(int)(resto * Math.Pow(10, cifras - 1));
+
+                    valorInvertido = valorInvertido + aux;
 
                     numero = numero / 10;
-
-                    aux = aux - 1;
                 }
                 
                 Console.Write("El numero invertido es : ");
@@ -60,23 +56,5 @@ namespace TP_6_Tarulli
 
             return cifras;
         }
-
-        static public int Cifra (int numero)
-        {
-            int resto = 0;
-
-            while (numero != 0)
-            {
-                resto = numero % 10;
-
-                numero = numero / 10;
-            }
-            return resto;
-        }
-
     }
-
-
-
-
 }
